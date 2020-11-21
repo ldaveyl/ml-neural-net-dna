@@ -37,7 +37,7 @@ The main use of this notebook is to demonstrate a typical workflow in PyTorch. M
 
 ## Usage
 
-        jupyter notebook
+    jupyter notebook
 
 ## Contact
 
